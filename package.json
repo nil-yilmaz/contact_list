@@ -1,0 +1,23 @@
+{
+  "name": "contact_list",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "yargs": "^15.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilgursoy/contact_list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nilgursoy/contact_list/issues"
+  },
+  "homepage": "https://github.com/nilgursoy/contact_list#readme",
+  "description": ""
+}
