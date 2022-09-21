@@ -1,0 +1,8 @@
+commands:
+  app.js add     to add new contacts, takes --name and --telNum as parameters
+  app.js remove  to delete the contact, takes --name as parameter
+  app.js show    to show the contact, takes --name as parameter
+  app.js list    to list the contacts, takes no parameter 
+
+  
+
